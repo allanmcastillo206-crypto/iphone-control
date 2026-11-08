@@ -38,6 +38,17 @@ The prepared package is **0.5.2-beta.1**, experimental early-access software. La
 - Observed performance on one setup is not a guarantee for other devices.
 - Compatibility with every MCP client or AI agent is not established.
 
+## Installer checksum
+
+The following identifies the exact installer checked on 8 November 2026:
+
+- **Filename:** `iPhone-Control-0.5.2-beta.1-Setup.exe`
+- **Size:** 190,748,672 bytes
+- **SHA-256:** `9937820700132edca1f41e63033b306dc6b47fccf0cacd2dab3b73bcccf8b7be`
+- **Authenticode signature status:** NotSigned (unsigned)
+
+Compare the SHA-256 hash of your downloaded file with this value before using it. A matching hash establishes that the file matches this published checksum; it does **not** prove that the software is safe or free of malware. This entry does not report a malware-scan result or a network-activity assessment.
+
 ## Privacy and responsible use
 
 Use only devices you own or have permission to control. Agent image sharing can expose anything visible on the phone screen. Review your agent client's privacy settings before enabling it.
